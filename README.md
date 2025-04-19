@@ -10,8 +10,8 @@ Vantagens: Escalabilidade automática, custo baseado no uso e integração fáci
 Descrição: Gerenciar e proteger as APIs expostas pelas Azure Functions.
 Vantagens: Controle de acesso, limitação de taxa, monitoramento e análise de uso das APIs.
 
-# 3. Azure Storage Queues
-Descrição: Utilizar filas para gerenciar as mensagens de forma assíncrona, garantindo que as requisições sejam processadas de forma ordenada e resiliente.
+# 3. Azure Storage Queues e dead letter Queue
+Descrição: Utilizar filas para gerenciar as mensagens de forma assíncrona, garantindo que as requisições sejam processadas de forma ordenada e resiliente. As mensagens não processadas vão para dead letter queue
 Vantagens: Desacoplamento de componentes, escalabilidade e resiliência.
 
 # 4. Azure Cognitive Services
