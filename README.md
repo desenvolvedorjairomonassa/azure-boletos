@@ -1,6 +1,6 @@
 # azure-boletos
 Cloud para Desenvolvimento de um serviço responsável por verificar e autenticar boletos bancários, com o objetivo de garantir a validade das informações.
-<img src="boleto_azure.png" alt="Arquitetura azure de boleto" width="500" height="600">
+<img src="boleto_azure.png" alt="Arquitetura azure de boleto"">
 
 # 1. Azure Functions
 Descrição: Utilizar Azure Functions para criar microsserviços sem servidor que serão responsáveis por processar as requisições de verificação e autenticação dos boletos.
